@@ -10,6 +10,6 @@ Currently statistic took from the data.js file, but it could be easily got from 
 <br/><br/>
 This page is available on GitHub Pages: https://seltaria.github.io/social-dashboard/
 <br/><br/>
-Developed via React library. All development files are in the folder "React files".
+Developed via React library, fully responsive. All development files are in the folder "React files".
 <br/><br/>
 Here's the link on this Frontend Mentor challenge: https://www.frontendmentor.io/challenges/social-media-dashboard-with-theme-switcher-6oY8ozp_H
